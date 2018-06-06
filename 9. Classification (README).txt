@@ -1,0 +1,3 @@
+9. Classification
+
+This repository contains use of Machine learning models to understand Classification techniques such as Logistic Regression, Comaprison between Linear & Logistic models, Decision Trees, Random Forest algorithms. It also contains the understanding of Label Encoding the data-set.
